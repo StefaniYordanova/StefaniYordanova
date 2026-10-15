@@ -27,6 +27,9 @@ I'm currently building my way into the world of software development, with my ma
 <a href="mailto:stephii.y34@gmail.com">
     <img align="left" alt="Gmail" width="26px" src="https://cdn.simpleicons.org/gmail/EA4335" style="padding-right:10px;" />
 </a>
+<a href="https://www.facebook.com/profile.php?id=61594668539999" target="_blank">
+    <img align="left" alt="Facebook" width="26px" src="https://cdn.simpleicons.org/facebook/0866FF" style="padding-right:10px;" />
+</a>
 
 ---
 
